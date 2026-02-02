@@ -1,6 +1,5 @@
 # EV Charging Demand Forecasting (Kaggle Competition)
 
-Final Project for AMS 559  
 Forecasting Hourly Demand for EV Charging
 
 ---
