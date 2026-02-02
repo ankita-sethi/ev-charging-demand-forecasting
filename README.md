@@ -34,6 +34,11 @@ Given historical EV charging session data:
   - kWhDelivered
   - station, site, and session metadata
 
+#Note on Notebook Rendering
+
+This notebook contains interactive outputs that may not render correctly on GitHub.  
+Please clone the repository and run the notebook locally to view all plots and results.
+
 The raw session level data was transformed into an **hourly demand time series**.
 
 ---
