@@ -115,4 +115,3 @@ This project demonstrates an end to end workflow for **real world time series fo
 - Kaggle EV Charging Dataset
 - TPOT AutoML Documentation
 - Scikit learn
-- Course material for AMS 559
